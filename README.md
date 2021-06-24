@@ -13,14 +13,10 @@ Step 4: Calculate the percentage of votes each candidate won
 
 Step 5: Determine the winner of election based on the popular vote
 
----
-
 ## **Resources**
 Data Source: [election_results.csv](https://github.com/corispade/Module3_Election_Analysis/blob/main/Resources/election_results.csv)
 
 Software: Python 3.7.6, Visual Studio Code: 1.57.1
-
----
 
 ## **Summary**
 The analysis of the election results show that:
@@ -39,8 +35,6 @@ The analysis of the election results show that:
 * The winner of the election was:
 
   Diana DeGette who received 272,892 votes and 73.8% of the total votes. 
-
----
 
 # Challenge Overivew
 
