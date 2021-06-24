@@ -38,4 +38,8 @@ The analysis of the election results show that:
 
 # Challenge Overivew
 
+<<<<<<< HEAD
 # Challenge Summary
+=======
+# Challenge Summary
+>>>>>>> 3c9714f231628d82601e3994f637386bdc22fe29
