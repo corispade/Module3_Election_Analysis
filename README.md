@@ -13,33 +13,36 @@ Step 4: Calculate the percentage of votes each candidate won
 
 Step 5: Determine the winner of election based on the popular vote
 
-## **Resources**
+### **Resources**
 Data Source: [election_results.csv](https://github.com/corispade/Module3_Election_Analysis/blob/main/Resources/election_results.csv)
 
 Software: Python 3.7.6, Visual Studio Code: 1.57.1
 
 ## **Summary**
 The analysis of the election results show that:
-* There were 369,711 votes cast in the election
 
-* The candidate names were:
-  1. Charles Casper Stockham
-  2. Diana DeGette
-  3. Raymon Anthony Doane
+### Total Number of Votes:
+There were 369,711 votes cast in the election
 
-* The candidate results were:
-  1. Charles Casper Stockham received 85,213 votes, which calculated to 23.0% of the total votes.
-  2. Diana DeGette received 272,892 votes, which calculated to 73.8% of the total votes.
-  3. Raymon Anthony Doane received 11,606 votes, which calculated to 3.1% of the total votes.
+### Voter Results By County:
+1. Jefferson had 38,855 votes, which calculated to 10.5% of the total votes.
+2. Denver had 306,055 votes, which calculated to 82.8% of the total votes.
+3. Arapahoe had 24,801 votes, which calculated to 6.7% of the total votes.
 
-* The winner of the election was:
+### County with Largest Voter Turnout:
+The county with the largest voter turnout was Denver with 306,055 votes and 82.8% of the total votes.
 
-  Diana DeGette who received 272,892 votes and 73.8% of the total votes. 
+### Candidate Results:
+1. Charles Casper Stockham received 85,213 votes, which calculated to 23.0% of the total votes.
+2. Diana DeGette received 272,892 votes, which calculated to 73.8% of the total votes.
+3. Raymon Anthony Doane received 11,606 votes, which calculated to 3.1% of the total votes.
+
+## Winner of the Election:
+The winner of the election was Diana DeGette who received 272,892 votes and 73.8% of the total votes. 
 
 # Challenge Overivew
 
-<<<<<<< HEAD
+
 # Challenge Summary
-=======
-# Challenge Summary
->>>>>>> 3c9714f231628d82601e3994f637386bdc22fe29
+
+
