@@ -26,7 +26,7 @@ winning_count = 0
 # Delcare a variable for "winning_percentage" equal to 0
 winning_percentage = 0
 
-
+ 
 # Use with statement to open the csv election results and read the file
 with open(file_to_load) as election_data:
  #Read the file object with the reader function
